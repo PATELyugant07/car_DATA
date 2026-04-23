@@ -20,6 +20,7 @@ Pandas
 Scikit-learn
 Pickle (for saving model)
 Jupyter Notebook
+
 📂 Dataset Used
 
 File Name: Car Dataset Processed.csv
@@ -32,14 +33,3 @@ kms_driven
 ownsership
 transmission
 price(in lakhs)
-🔥 Columns Used for Training
-Input Features (X)
-Feature Name	Description
-insurance_validity	Insurance type
-fuel_type	Petrol/Diesel/CNG
-kms_driven	Total kilometers driven
-ownsership	Owner type (First/Second/Third...)
-transmission	Manual/Automatic
-Target (y)
-Column	Description
-price(in lakhs)	Car price
